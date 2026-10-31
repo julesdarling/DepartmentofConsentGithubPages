@@ -17,7 +17,7 @@ https://departmentofconsent.com/
 
 GitHub Pages fallback:
 
-https://juleshaggard.github.io/DepartmentofConsentGithubPages/
+https://julesdarling.github.io/DepartmentofConsentGithubPages/
 
 ## Scene Negotiator
 

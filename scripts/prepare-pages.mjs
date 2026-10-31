@@ -28,7 +28,7 @@ const siteUrl = (
   process.env.VITE_SITE_URL ||
   (customDomain
     ? `https://${customDomain}`
-    : "https://juleshaggard.github.io/DepartmentofConsentGithubPages")
+    : "https://julesdarling.github.io/DepartmentofConsentGithubPages")
 ).replace(/\/$/, "");
 
 // Public marketing pages only. Scene Negotiator (/scene-negotiator and all

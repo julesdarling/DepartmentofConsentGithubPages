@@ -57,7 +57,7 @@ export const siteConfig = {
   tagline: "From kink-curious to kink-confident.",
   /** Public base URL (no trailing slash) */
   url: (
-    env.VITE_SITE_URL || "https://juleshaggard.github.io/DepartmentofConsentGithubPages"
+    env.VITE_SITE_URL || "https://julesdarling.github.io/DepartmentofConsentGithubPages"
   ).replace(/\/$/, ""),
   /** Contact email */
   contactEmail: env.VITE_CONTACT_EMAIL || "support@departmentofconsent.com",
